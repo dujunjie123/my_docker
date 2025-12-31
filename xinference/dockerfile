@@ -1,1 +1,1 @@
-docker pull xprobe/xinference:latest
+from xprobe/xinference:latest
