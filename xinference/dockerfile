@@ -1,1 +1,1 @@
-from xprobe/xinference:latest
+from xprobe/xinference:v1.16.0-cu129
